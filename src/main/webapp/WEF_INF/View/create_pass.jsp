@@ -16,7 +16,7 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link rel="icon" href="./assets/images/favicon.png" type="image/gif" sizes="16x16">
 
-    <title>PNB Of</title>
+    <title>Punjab National Bank</title>
 
 </head>
 
